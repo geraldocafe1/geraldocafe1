@@ -41,8 +41,8 @@ Sou um desenvolvedor apaixonado por tecnologia, especializado na construção de
 
 Gostou do meu perfil ou tem interesse em colaborar em algum projeto? Vamos conversar!
 
-* 💼 **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/geraldo-cafe)
-* 📧 **E-mail:** [geraldo.cafe@outlook.com](mailto:geraldo.cafe@outlook.com)
+* 💼 **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/geraldocafe)
+* 📧 **E-mail:** [geraldo.cafe@outlook.com](mailto:gcafefilho@gmail.com)
 * 🌐 **Portfólio:** [geraldocafe1.github.io](https://geraldocafe1.github.io)
 
 ---
