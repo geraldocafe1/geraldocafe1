@@ -43,7 +43,7 @@ Gostou do meu perfil ou tem interesse em colaborar em algum projeto? Vamos conve
 
 * 💼 **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/geraldocafe)
 * 📧 **E-mail:** [geraldo.cafe@outlook.com](mailto:gcafefilho@gmail.com)
-* 🌐 **Portfólio:** [geraldocafe1.github.io](https://geraldocafe1.github.io)
+* 🌐 **Portfólio:** [geraldocafe1.github.io](https://geraldocafe1.github.io/portifolio/)
 
 ---
 
